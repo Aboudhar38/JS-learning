@@ -10,7 +10,7 @@ console.log("Hello, JavaScript!");
 
 // Exercise 2: Create variables
 const firstName = "Abudhari";
-let age = 17;
+let age = 19;
 const isLearning = true;
 
 console.log(firstName);
@@ -19,8 +19,8 @@ console.log(isLearning);
 
 
 // Exercise 3: Simple calculations
-const a = 12;
-const b = 4;
+const a = 34;
+const b = 12;
 
 console.log("Sum:", a + b);
 console.log("Difference:", a - b);
@@ -148,7 +148,7 @@ console.log("Temperature:", toFahrenheit(25));
 
 // Exercise 15: Simple login check
 const savedPassword = "learnJS123";
-const enteredPassword = "learnJS123";
+const enteredPassword = "learnJS122";
 
 if (enteredPassword === savedPassword) {
     console.log("Access granted");
